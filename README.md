@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h1 align="center">FunBros</h1>
+<h1 align="center">FunBros2</h1>
 <p align="center"><b>2D Platformer Game</b></p>
 
 <p align="center">
