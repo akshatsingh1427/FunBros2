@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://akshatsingh1.itch.io/funbros1" target="_blank">
+  <a href="https://akshatsingh1.itch.io/funbros2" target="_blank">
     <img src="https://img.shields.io/badge/Play%20Game-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white">
   </a>
 </p>
