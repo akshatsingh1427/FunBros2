@@ -50,11 +50,8 @@ The **final level is currently in development**, and the **complete version of F
 ## Gameplay Mechanics
 
 - Player can run, jump, and roll  
-- Enemies can be defeated by jumping on them or rolling into them  
-- Falling into pits or direct enemy contact reduces player lives  
-- Respawn behavior depends on the cause of death  
-- Game resets to the starting point after all lives are lost  
-
+- Enemies can be defeated by jumping on them or rolling into them 
+ 
 ---
 
 ## Game Design Philosophy
