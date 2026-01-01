@@ -40,8 +40,7 @@ The **final level is currently in development**, and the **complete version of F
 - Smooth player movement and responsive controls  
 - Enemy interaction mechanics such as jump kills and roll kills  
 - Life-based system with respawn mechanics  
-- Pitfalls and environmental traps  
-- Checkpoint-based progression  
+- Pitfalls and environmental traps    
 - Colorful level design  
 - Increasing difficulty across levels  
 
