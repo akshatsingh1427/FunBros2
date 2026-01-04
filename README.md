@@ -57,7 +57,7 @@ The **final level is currently in development**, and the **complete version of F
 
 FunBros is designed around the principle of simple mechanics with meaningful challenge. Each gameplay element is intentionally minimal, allowing players to focus on timing, movement precision, and decision-making rather than complex controls.
 
-The design emphasizes fair enemy encounters, clear visual feedback, gradual difficulty progression, and fast respawn cycles. This approach helps players learn from mistakes while maintaining an engaging gameplay experience.
+The design emphasizes fair enemy encounters, clear visual feedback, and fast respawn cycles. This approach helps players learn from mistakes while maintaining an engaging gameplay experience.
 
 ---
 
