@@ -67,7 +67,6 @@ The design emphasizes fair enemy encounters, clear visual feedback, and fast res
 - Physics-based enemy interaction handling  
 - State-driven player actions such as running, jumping, and rolling  
 - Modular script architecture to support multiple levels  
-- Scalable level design framework  
 
 ---
 
