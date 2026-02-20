@@ -6,7 +6,7 @@ func _on_body_entered(body: Node2D) -> void:
 	
 	if body.name == "Player":
 		pickup_sound.play()
-		hide() # hide coin immediately
+		hide()
 		
 		
 		await pickup_sound.finished
