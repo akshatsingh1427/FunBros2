@@ -7,7 +7,6 @@ func _on_level_3_pressed() -> void:
 	get_tree().change_scene_to_file("res://scenes/game_3.tscn")
 
 func _process(_delta):
-	# ESC always exits from menu
 	if Input.is_action_just_pressed("ui_cancel"):
 		get_tree().change_scene_to_file("res://scenes/main_menu.tscn")
 
