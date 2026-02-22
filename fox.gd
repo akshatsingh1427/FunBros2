@@ -1,28 +1,28 @@
 extends Node2D
 
-# ================= CONSTANTS =================
+
 const WALK_SPEED := 60.0
 const DASH_SPEED := 180.0
 
-const ROAM_RANGE := 110.0   # horizontal roam (10 blocks)
+const ROAM_RANGE := 110.0  
 
 const VERTICAL_FOLLOW_SPEED := 120.0
-const VERTICAL_DEAD_ZONE := 6.0   # prevents jitter (half tile feel)
+const VERTICAL_DEAD_ZONE := 6.0   
 
-# ================= VARIABLES =================
+
 var direction := 1
 var player_detected := false
 var is_dashing := false
 var player_ref: Node2D = null
 var patrol_center_x := 0.0
 
-# ================= NODES =================
+
 @onready var ray_cast_right := $RayCastRight
 @onready var ray_cast_left := $RayCastLeft
 @onready var sprite := $AnimatedSprite2D
 @onready var player_detector := $PlayerDetector
 
-# ================= READY =================
+
 func _ready() -> void:
 	patrol_center_x = global_position.x
 
