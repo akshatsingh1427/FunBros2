@@ -1,12 +1,11 @@
 extends CharacterBody2D
 
-# ================= CONSTANTS =================
 const SPEED = 130.0
 const JUMP_VELOCITY = -300.0
 const ROLL_SPEED = 200.0
 const ROLL_TIME = 0.25
 
-# ================= VARIABLES =================
+
 var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
 var is_rolling = false
 var is_dead = false
