@@ -10,7 +10,7 @@ var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
 var is_rolling = false
 var is_dead = false
 
-# ================= NODES =================
+
 @onready var sprite: AnimatedSprite2D = $AnimatedSprite2D
 @onready var hurt_sound: AudioStreamPlayer2D = $HurtSound
 @onready var hud: Control = get_parent().get_node("HUD")
