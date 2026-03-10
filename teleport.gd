@@ -1,6 +1,5 @@
 extends Area2D
 
-# Path of the next level
 @export var next_level: String = "res://scenes/main_menu_2.tscn"
 
 func _ready():
